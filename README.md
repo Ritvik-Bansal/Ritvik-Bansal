@@ -1,5 +1,8 @@
 <div align="center">
-  <h1>Ritvik Bansal</h1>
+  <h1>
+    Ritvik Bansal
+    <sub><a href="https://ritvik-bansal.github.io/portfolio/">portfolio</a></sub>
+  </h1>
   <p>
     <strong>B.S. Computer Science</strong> · <a href="https://www.cs.washington.edu/">Paul G. Allen School</a>, University of Washington<br />
     Bothell, WA · North Creek HS (15 AP · 36 ACT)
@@ -10,7 +13,7 @@
   &nbsp;
   <a href="mailto:ritvikbansal08@gmail.com"><img src="https://img.shields.io/badge/Gmail-ritvikbansal08-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   &nbsp;
-  <a href="https://ritvik-bansal.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-live-111827?style=flat" alt="Portfolio" /></a>
+  <a href="https://ritvik-bansal.github.io/portfolio/"><img src="https://img.shields.io/badge/portfolio-ritvik--bansal.github.io%2Fportfolio-111827?style=flat" alt="Portfolio" /></a>
   &nbsp;
   <a href="https://pathpal.org/"><img src="https://img.shields.io/badge/pathpal.org-live-b8734a?style=flat" alt="PathPal website" /></a>
   &nbsp;
