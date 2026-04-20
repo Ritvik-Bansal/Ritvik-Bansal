@@ -10,6 +10,8 @@
   &nbsp;
   <a href="mailto:ritvikbansal08@gmail.com"><img src="https://img.shields.io/badge/Gmail-ritvikbansal08-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   &nbsp;
+  <a href="https://ritvik-bansal.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-live-111827?style=flat" alt="Portfolio" /></a>
+  &nbsp;
   <a href="https://pathpal.org/"><img src="https://img.shields.io/badge/pathpal.org-live-b8734a?style=flat" alt="PathPal website" /></a>
   &nbsp;
   <a href="https://ieeexplore.ieee.org/document/11097414/"><img src="https://img.shields.io/badge/IEEE-pedestrian%20archetypes-00629B?style=flat" alt="IEEE pedestrian archetypes paper" /></a>
@@ -101,7 +103,7 @@ The repo is the **annotator** I help ship. Archetypes, dangerous-behavior datase
 
 <div align="center">
 
-**[LinkedIn](https://www.linkedin.com/in/ritvikbansal031608/)** · **ritvikbansal08@gmail.com** · **[pathpal.org](https://pathpal.org/)**
+**[LinkedIn](https://www.linkedin.com/in/ritvikbansal031608/)** · **ritvikbansal08@gmail.com** · **[portfolio](https://ritvik-bansal.github.io/portfolio/)** · **[pathpal.org](https://pathpal.org/)**
 
 <br />
 
