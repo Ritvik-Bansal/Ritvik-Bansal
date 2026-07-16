@@ -21,7 +21,7 @@
 
 ### Hey, I'm Ritvik
 
-I’m an incoming freshman at the **Allen School** (waitlisted at **Stanford**). I build mobile apps, ML systems, and research tools people use in their day-to-day lives.
+I’m an incoming freshman at the **Allen School**. I build mobile apps, ML systems, and research tools people use in their day-to-day lives.
 
 | | |
 | :-- | :-- |
